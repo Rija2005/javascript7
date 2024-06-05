@@ -97,3 +97,10 @@
 // let color_to_add=prompt("Enter the color of your Choice!");
 // color.push(color_to_add);
 // document.write(" <br>My unshift is"+color);
+
+
+//array sort 
+let scores=[320,230,420,120];
+document.write("<h3>Scores of Students</h3>"+scores)
+scores.sort();
+document.write("<br>orderded sc ore of student"+scores)
